@@ -1,0 +1,212 @@
+aside {
+  background-color: #1e2939;
+  width: 370px;
+  padding: 0 0 40px 0;
+}
+img {
+  width: 100%;
+}
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  background-color: #f5f7fa;
+}
+
+.contacts {
+  margin: 50px 0 0 40px;
+}
+.contacts-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #bbcde7;
+}
+.tech-soft {
+  margin: 50px 0 0 40px;
+}
+
+.tech-skills-list {
+  padding: 0 0 0 17px;
+  color: #bbcde7;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.title-side {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #fff;
+  margin: 50px 0 10px 0;
+}
+.contacts-type {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+  margin-right: 5px;
+}
+main {
+  display: flex;
+  flex-direction: row;
+  width: 1200px;
+  background-color: #fff;
+  margin: auto;
+}
+.main-content-section {
+  padding: 100px 90px;
+}
+.about-me-profession {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 17px;
+  color: #000;
+  margin: 0 0 20px 0;
+}
+.my-name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000;
+  margin: 19px auto 24px;
+}
+.about-me-description {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  width: 400px;
+  margin-bottom: 40px;
+}
+
+.about-me {
+  margin-bottom: 40px;
+}
+.main-content-title {
+  color: #000;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  margin: 40px auto 10px;
+}
+.my-project-list {
+  padding: 0 0 0 17px;
+}
+.my-projects-item {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  padding: 0 0 0 7px;
+}
+.bracket {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000;
+}
+.my-project-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.my-project-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.my-project {
+  margin: 0 0 50px 0;
+}
+pre {
+  background-color: #f3f3f3;
+}
+.color {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #5186cf;
+  margin: 12px auto 11px;
+}
+.h4 {
+  margin: 12px auto 11px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000;
+}
+.date {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #8a8888;
+}
+
+.education-experience {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000;
+  margin: 11px auto 12px;
+}
+.line {
+  color: #000;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  padding: 0 8px 0 8px;
+}
+.language {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  padding-left: 20px;
+}
+b {
+  color: #000;
+}
+footer {
+  display: flex;
+  flex-direction: row;
+  width: 1200px;
+  background-color: rgb(244, 244, 247);
+  margin: auto;
+}
+.git {
+  padding: 5px 40px 5px 40px;
+}
+.rs {
+  padding: 5px 40px 5px 40px;
+  width: 14%;
+
+  padding: 5px 400px;
+}
+.year {
+  padding-top: 0px;
+  color: #000;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 30px;
+  line-height: 40px;
+}
